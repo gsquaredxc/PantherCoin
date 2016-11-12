@@ -1,3 +1,6 @@
+Right now I am going to leave the orignal things down below this.
+This is the GitHub for PantherCoin. This is a work in progress.
+----------------------------------------------------------------------------------------------------------------------------------------
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
